@@ -1,0 +1,95 @@
+{
+  "lessons": [
+    {
+      "id": "101",
+      "title": "Introduction to JavaScript",
+      "ratings": [
+        {
+          "id": "1726062608365",
+          "student": "101",
+          "rate": 10
+        },
+        {
+          "id": "1726064243446",
+          "student": "102",
+          "rate": 1
+        },
+        {
+          "id": "1726064253158",
+          "student": "103",
+          "rate": 10
+        },
+        {
+          "id": "1726065933648",
+          "student": "7b28",
+          "rate": 3
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "title": "Program Structure Part 1",
+      "ratings": [
+        {
+          "id": "1726064178775",
+          "student": "101",
+          "rate": 6
+        },
+        {
+          "id": "1726064240006",
+          "student": "102",
+          "rate": 3
+        }
+      ]
+    },
+    {
+      "id": "c5d4",
+      "title": "Redux",
+      "ratings": [
+        {
+          "id": "1726064212022",
+          "student": "101",
+          "rate": 4
+        },
+        {
+          "id": "1726064247982",
+          "student": "103",
+          "rate": 4
+        }
+      ]
+    },
+    {
+      "id": "2284",
+      "title": "Erkrachaputyun",
+      "ratings": [
+        {
+          "id": "1726064302990",
+          "student": "101",
+          "rate": 8
+        }
+      ]
+    }
+  ],
+  "students": [
+    {
+      "id": "101",
+      "name": "Tigran",
+      "surname": "Harutyunyan"
+    },
+    {
+      "id": "102",
+      "name": "Anna",
+      "surname": "Melqonyan"
+    },
+    {
+      "id": "103",
+      "name": "Lusine",
+      "surname": "Sahakyan"
+    },
+    {
+      "id": "7b28",
+      "name": "Sargis",
+      "surname": "Xachatryan"
+    }
+  ]
+}
